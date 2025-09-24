@@ -7,5 +7,6 @@ This project is broken up into three parts:
   - Part 3 uses machine learning to predict the MVP winners for each year. I prepared the data for machine learning using Ridge Regression and defined an error metric that allowed me to backtest across the dataset. I then refined my predictors and utilized a Random             Forest model to make the predictions.
 
 To run this code, make sure you have access to Jupyter Notebook or Google Colab and import the files into them!
+(P.S. Don't worry about the CSVs, they are just to show some of the data sets that are created through the code)
 
   
